@@ -9,3 +9,5 @@ Output can be customized as Marketing content, Social Media Post, Translated to 
 If the Query does not have info from the trained Data (Odd query), user will see a pre defined Message
 
 APIs are being exposed which can be used to Integrate this application with various other backend and frontend systems
+
+Future scope is to add a multi-modal LLM to include images to the output to generate full fledged contents for real life use.
